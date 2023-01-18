@@ -10,6 +10,7 @@
     "start": "webpack serve --config ./config/webpack.config.dev.js"
   },
   "dependencies": {
+    "raw-loader": "^4.0.2",
     "three": "^0.148.0"
   },
   "devDependencies": {
